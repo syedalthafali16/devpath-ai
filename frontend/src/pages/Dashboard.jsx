@@ -2,9 +2,9 @@ import { useEffect, useState } from "react";
 import { Menu } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 
-import Sidebar from "../components/dashboard/Sidebar";
-import MobileSidebar from "../components/dashboard/MobileSidebar";
-import Topbar from "../components/dashboard/Topbar";
+import Sidebar from "../components/Dashboard/Sidebar";
+import MobileSidebar from "../components/Dashboard/MobileSidebar";
+import Topbar from "../components/Dashboard/Topbar";
 import api from "../services/api";
 
 function Dashboard() {
