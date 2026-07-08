@@ -4,9 +4,11 @@ An AI-powered full-stack web application that helps developers plan their learni
 
 ## 🌐 Live Demo
 
-Frontend: https://devpath-ai-app.vercel.app
+Frontend:
+ https://devpath-ai-app.vercel.app
 
-Backend API: https://devpath-ai.onrender.com
+Backend API:
+ https://devpath-ai.onrender.com
 
 ---
 
@@ -209,7 +211,6 @@ POST /api/mentor/chat/
 - AI Mock Interview
 - Roadmap Progress Analytics
 - Dark/Light Theme
-- Notifications
 - Admin Dashboard
 
 ---
