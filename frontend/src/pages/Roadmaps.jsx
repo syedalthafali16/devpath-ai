@@ -64,10 +64,6 @@ function Roadmaps() {
 
     <BackButton />
 
-    <h1 className="text-3xl font-bold">
-     AI Roadmaps
-    </h1>
-
         <h1 className="text-4xl font-black text-amber-400">
           AI Roadmap Generator
         </h1>
