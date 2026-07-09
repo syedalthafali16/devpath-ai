@@ -1,5 +1,6 @@
 import { useState } from "react";
 import api from "../services/api";
+import BackButton from "../components/BackButton";
 
 function SkillGap() {
   const [currentSkills, setCurrentSkills] = useState("");
@@ -43,6 +44,8 @@ function SkillGap() {
   return (
     <div className="min-h-screen bg-zinc-950 text-white p-8">
       <div className="mx-auto max-w-5xl">
+
+      <BackButton />
 
         <h1 className="text-4xl font-black text-amber-400">
           AI Skill Gap Analyzer
