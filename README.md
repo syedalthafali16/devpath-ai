@@ -21,7 +21,7 @@ An AI-powered full-stack web application that helps developers plan their learni
 
 ## 🌐 Live Demo
 
-Frontend:
+Full stack:
  https://devpath-ai-app.vercel.app
 
 Backend API:
